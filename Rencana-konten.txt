@@ -2,7 +2,10 @@ Rencana Konten:
 - Javascript
   *ES6
   *Framework Javascript
-- PHP
+   ^Vue
+- PHP Frameworks
+ * Laravel
 - Vlog
 - Interview
 - Fundamental Data structure
+- Python
