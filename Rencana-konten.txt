@@ -5,3 +5,4 @@ Rencana Konten:
 - PHP
 - Vlog
 - Interview
+- Fundamental Data structure
