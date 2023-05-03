@@ -2,9 +2,4 @@ Rencana Konten:
 - Javascript
   *ES6
   *Framework Javascript
-   ^Angular
-   ^React
-- PHP Frameworks
- *Laravel
-- Vlog
-- Interview
+
